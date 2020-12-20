@@ -7,4 +7,4 @@
 
 * 供应链金融
 
-     * <a href="">一文全面深度分析供应链金融精华（转载：五道口供应链研究院）</a>
+     * <a href="https://github.com/Mein-Augenstern/Bank-Job-Guide/blob/main/docs/%E4%B8%80%E6%96%87%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%91%E8%9E%8D%E7%B2%BE%E5%8D%8E.md">一文全面深度分析供应链金融精华（转载：五道口供应链研究院）</a>
