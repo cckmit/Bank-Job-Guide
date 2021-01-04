@@ -15,4 +15,4 @@
 
 * 专业名词
 
-    * <a href="">统一社会信用代码</a>
+    * <a href="https://github.com/Mein-Augenstern/Bank-Job-Guide/blob/main/docs/noun/society/%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81.md">统一社会信用代码</a>
