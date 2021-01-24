@@ -20,6 +20,7 @@
 * 银行风控模型
 
     * <a href="">银行风控模型初步介绍c</a>
+    * <a href="https://tech.youzan.com/rules-engine/">有赞风控规则引擎实践</a>
 
 * 专业名词
 
