@@ -26,6 +26,10 @@
 
     * <a href="https://github.com/Mein-Augenstern/Bank-Job-Guide/blob/main/docs/noun/society/%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81.md">统一社会信用代码</a>
 
+* 会计术语
+
+    * <>如何通俗的解释会计中的计提和结转</a>
+
 * 课外阅读
     * <a href="https://zhuanlan.zhihu.com/p/163783197">互联网金融之信贷业务中台大揭秘（一）</a>
     * <a href="https://zhuanlan.zhihu.com/p/163783994">互联网金融之信贷业务中台大揭秘（二）</a>
