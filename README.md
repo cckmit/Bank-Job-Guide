@@ -28,7 +28,7 @@
 
 * 会计术语
 
-    * <>如何通俗的解释会计中的计提和结转</a>
+    * <a href-:https://github.com/Mein-Augenstern/Bank-Job-Guide/blob/main/docs/noun/accounting/%E5%A6%82%E4%BD%95%E9%80%9A%E4%BF%97%E7%9A%84%E8%A7%A3%E9%87%8A%E4%BC%9A%E8%AE%A1%E4%B8%AD%E7%9A%84%E8%AE%A1%E6%8F%90%E5%92%8C%E7%BB%93%E8%BD%AC%EF%BC%9F.md:>如何通俗的解释会计中的计提和结转</a>
 
 * 课外阅读
     * <a href="https://zhuanlan.zhihu.com/p/163783197">互联网金融之信贷业务中台大揭秘（一）</a>
